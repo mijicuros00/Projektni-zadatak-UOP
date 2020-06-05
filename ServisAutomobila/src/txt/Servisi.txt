@@ -1,0 +1,2 @@
+01|s1|01|01;|mali servis|20.05.2020. 09:00|false|
+02|s1|03|03;|Zamena filtera|11.12.0030. 10:00|false|

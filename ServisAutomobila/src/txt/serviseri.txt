@@ -1,0 +1,2 @@
+s1|Lazar|Lazarevic|0123456789111|0|Bulevar evrope|063555444|lazarl|12345|false|50000.0|0
+s2|Dragan|Dragic|1122334455667|0|Novi Sad Strazilovska|069987985|DraganD|dragan123|true|55000.0|2
