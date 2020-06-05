@@ -1,3 +1,0 @@
-01|Mercedes|E220|turbina|15000.0|
-02|Mercedes|E220|amortizeri|8000.0|
-03|BMW|320d|DPF filter|7000.0|

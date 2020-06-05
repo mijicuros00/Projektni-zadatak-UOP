@@ -1,2 +1,0 @@
-m1|Petar|Petrovic|0123456789123|0|Bulevar oslobodjenja|063555454|petarp|12345|0
-m3|Novak|Djokovic|0505988714562|0|Beograd|066545321|Nole1|111111|0

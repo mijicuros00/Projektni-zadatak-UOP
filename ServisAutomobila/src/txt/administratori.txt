@@ -1,2 +1,0 @@
-a1|Pera|Peric|0123456789123|0|Bulevar oslobodjenja|063555454|petarp|12345|92000.0|
-a2|Djordje|Djordjevic|014725836922|0|Novi Sad Kisacka|064445565|Djole12|DjoleDjole|72000.0|
